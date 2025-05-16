@@ -37,13 +37,13 @@
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Abhijeet_Kumar29/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
   
-- 📫 Reach me @ **[LinkedIn](https://www.linkedin.com/in/abhijeetkumar29/), [Instagram](https://www.instagram.com/bas_kar_avi/)**
-- 📝 [Resume](https://drive.google.com/file/d/1rsjGKUXZD3YEfkBX9Rj3JneqAloiCrMm/view).
+- 📫 Reach me @ **[LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-30b39722b/), [Instagram](https://www.instagram.com/abhijeetkumar_ak)**
+- 📝 [Resume](https://drive.google.com/file/d/1GA0c1dUy2ClSN52KaJ1zKigVgNBm3byP/view?usp=drive_link).
 
 - 💪 This is where I write, code and solve problems:
 
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AbhijeetParashar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbhijeetParashar" height="30" width="40" /></a>
+<a href="https://github.com/Abhijeet2706" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbhijeetParashar" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/Abhijeet_Kumar29/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhijeet_Kumar29" height="30" width="40" /></a>
 &nbsp;
