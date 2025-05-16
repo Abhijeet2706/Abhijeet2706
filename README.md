@@ -19,7 +19,7 @@
 
 💻 Let's build something amazing together! Open to collaborations and always excited about new challenges.
 
-📫 Reach out to me at iamabhijeet.29@gmail.com. Let's connect and code the future because I like to make things that make a difference!
+📫 Reach out to me at abhijeetkumar2706@gmail.com Let's connect and code the future because I like to make things that make a difference!
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="408" height="380" />
@@ -27,7 +27,7 @@
 
 ### Talking about Personal Stuff:&nbsp; 
 
-- 👨‍🎓 I'm a **Senior Software Engineering / Full stack Web Developer**
+- 👨‍🎓 I'm a **Software Engineer/ Front-end Developer**
 - 🔭 I’m currently working at **@FragmaDataSystem**
 
 - 🤔 I’m looking for help with digital marketing to drive traffic to my website
