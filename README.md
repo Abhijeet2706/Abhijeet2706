@@ -1,14 +1,13 @@
 # Welcome to [Abhijeet Kumar's](https://github.com/AbhijeetParashar) profile! <a href="https://github.com/AbhijeetParashar"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-<a href="https://www.linkedin.com/in/abhijeetkumar29/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeet-kumar-30b39722b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/AbhijeetParash7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbhijeetParash7" height="30" width="40" /></a>
+<a href="https://x.com/ABHIJEE22121366" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbhijeetParash7" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/bas_kar_avi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bas_kar_avi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhijeetkumar_ak/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bas_kar_avi" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/abhijeet710" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijeet710" height="30" width="40" /></a>
-&nbsp;
+
 
 
 ## Glad to see you here! &nbsp; 
