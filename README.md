@@ -1,4 +1,4 @@
-# Welcome to [Abhijeet Kumar's](https://github.com/AbhijeetParashar) profile! <a href="https://github.com/AbhijeetParashar"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Abhijeet Kumar's](https://github.com/AbhijeetParashar) profile! <a href="https://github.com/Abhijeet2706"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 <a href="https://www.linkedin.com/in/abhijeet-kumar-30b39722b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
