@@ -1,7 +1,7 @@
 # Welcome to [Abhijeet Kumar's](https://github.com/AbhijeetParashar) profile! <a href="https://github.com/Abhijeet2706"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-<a href="https://www.linkedin.com/in/abhijeet-kumar-30b39722b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeetkumar2706/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet kumar" height="30" width="40" /></a>
 &nbsp;
 <a href="https://x.com/ABHIJEE22121366" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbhijeetParash7" height="30" width="40" /></a>
 &nbsp;
@@ -37,7 +37,7 @@
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Abhijeet_Kumar29/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
   
-- 📫 Reach me @ **[LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-30b39722b/), [Instagram](https://www.instagram.com/abhijeetkumar_ak)**
+- 📫 Reach me @ **[LinkedIn](https://www.linkedin.com/in/abhijeetkumar2706/), [Instagram](https://www.instagram.com/abhijeetkumar_ak)**
 - 📝 [Resume](https://drive.google.com/file/d/1GA0c1dUy2ClSN52KaJ1zKigVgNBm3byP/view?usp=drive_link).
 
 - 💪 This is where I write, code and solve problems:
